@@ -10,33 +10,43 @@
   </a>
 </p>
 
-<h1 align="center">Hey there! 👋</h1>
+<h1 align="center">Hey there! 👋 ☕🌸🐱</h1>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZml1d2loNTNyMHZvZHdtcmg3M3ZnYW1panh3aTd0cGh0OHAyNzZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" alt="Cat with coffee" width="200">
+</p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-I'm Victoria Ghoos from Belgium.
+I'm **Victoria Ghoos** from Belgium, a passionate software engineer with a love for clean code, creative solutions, and good coffee. ☕
 
--   🎓 I successfully completed an **Associate's in Programming** at Howest with **High Distinction** (2023-2025).
--   📚 Currently, I'm a student in the 2nd semester (out of 4 total) of the **Bachelor of CS in Software Engineering** at Howest Bruges.
+-   🎓 Successfully completed an **Associate's in Programming** at Howest with **High Distinction** (2023-2025).
+-   📚 Currently pursuing a **Bachelor of CS in Software Engineering** at Howest Bruges (2nd semester of 4).
+-   ✨ On a mission to build elegant solutions that make a difference.
 
 ### 🌱 What I'm Currently Learning
 
-I am continuously expanding my knowledge and skills, and currently diving into:
-
--   **PHP & Laravel**: For backend web development.
--   **Terraform**: Infrastructure as Code (IaC) for automating cloud resources.
--   **Software Architecture**: Specifically, the Ports and Adapters architecture (also known as Hexagonal Architecture).
--   **Prompt Engineering**: Optimizing input for AI models.
+-   **PHP & Laravel** – Backend web development
+-   **Terraform** – Infrastructure as Code (IaC)
+-   **Software Architecture** – Ports and Adapters (Hexagonal Architecture)
+-   **Prompt Engineering** – Optimizing AI interactions
 
 ### 💻 Projects & Experience
 
--   **School Projects**: Completed various projects, primarily CRUD applications using **C#**, **HTML**, **CSS**, **JavaScript**, and **Docker**.
--   **Internship**: Completed a three-month internship focused on a project utilizing **Opensearch**, **C#**, **Vue.js**, and **Docker**.
--   **Personal Website**: An interactive 3D website built with **React.js** and **Three.js** to showcase my portfolio.
--   **Upcoming Project - Yorimichi**: I will soon be starting a project named "Yorimichi", which will leverage **PostGIS** and **Python**.
+-   **School Projects**: CRUD applications using **C#**, **HTML**, **CSS**, **JavaScript**, and **Docker**
+-   **Internship**: Three-month internship with **Opensearch**, **C#**, **Vue.js**, and **Docker**
+-   **Personal Website**: Interactive 3D portfolio built with **React.js** and **Three.js**
+-   **Upcoming – Yorimichi**: Leveraging **PostGIS** and **Python** for a special project
+
+### 🎀 Fun Facts
+
+- 🐱 Cat enthusiast (they're basically tiny programmers)
+- ☕ Coffee fuels 90% of my debugging sessions
+- 🌸 Sakura season is my favorite time of year
+- 💡 Passionate about creating intuitive, user-focused software
 
 ---
 
-_This profile is regularly updated._
+_This profile is regularly updated. Always learning, always growing._ ✨
