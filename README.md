@@ -19,6 +19,11 @@
 I'm **Victoria** from Belgium, a passionate software engineer with a love for clean code, creative solutions, and good coffee. ☕
 -   🎓 Successfully completed an **Associate's in Programming** at Howest with **High Distinction** (2023-2025).
 -   📚 Currently pursuing a **Bachelor of CS in Software Engineering** at Howest Bruges, passed 2nd semester, starting **3rd semester of 4** in September (1 year left).
+
+### 🛠 Tech stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,py,js,ts,react,threejs,astro,vue,postgres,docker,kubernetes,terraform,git" />
+</p>
   
 ### ✅ What I Learned This Past Year
 -   **Software Architecture**: Hexagonal Architecture & Ports and Adapters
@@ -28,9 +33,10 @@ I'm **Victoria** from Belgium, a passionate software engineer with a love for cl
 -   **Web Dev Essentials**: PHP & Laravel
 
 ### 🌱 What I'm Currently Learning
--   **PostGIS & Spatial Queries**: Geographic data for my upcoming project, Yorimichi
--   **OSMnx & NetworkX**: Street network graphs and pathfinding
--   **FastAPI**: Building the API layer for Yorimichi
+- **PostGIS & Spatial Queries**: Geographic data for my upcoming project, Yorimichi
+- **OSMnx & NetworkX**: Street network graphs and pathfinding
+- **FastAPI**: Building the API layer for Yorimichi
+- **Astro**: Modern static sites and content-focused web development
 
 ### 💻 Projects & Experience
 -   **HowestPrime**: Combined Software Architecture and System Architecture into a months-long project with **C#**, **Typescript**, **Terraform**, **Kubernetes**, **Docker**
