@@ -2,11 +2,11 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZml1d2loNTNyMHZvZHdtcmg3M3ZnYW1panh3aTd0cGh0OHAyNzZoMyZlcD12MV9pbnRlcm5hbF9nZl9fYnlfaWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif" alt="Cat with coffee" width="200">
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/victoriaghoos" target="_blank">
+  <a href="https://www.linkedin.com/in/victoriaghoos" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-AEE8F5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://victoriaghoos.com" target="_blank">
-    <img src="https://img.shields.io/badge/React-FFC0CB?style=for-the-badge&logo=react&logoColor=white" alt="Website"> 
+    <img src="https://img.shields.io/badge/%F0%9F%8C%B8%20WEBSITE-FFC0CB?style=for-the-badge" alt="COSMOS">
   </a>
   <a href="mailto:ghoosvictoria@gmail.com">
     <img src="https://img.shields.io/badge/Email-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
@@ -45,6 +45,7 @@ I'm **Victoria** from Belgium, a passionate software engineer with a love for cl
 -   **Internship**: Three-month internship with **OpenSearch**, **C#**, **Vue.js**, and **Docker** at [Vandenbroele](https://www.vandenbroele.be)
 -   **Personal Website**: Interactive 3D portfolio built with **React.js** and **Three.js**
       *   🔗 Check it out: [victoriaghoos.com](https://victoriaghoos.com)
+-   **In Progress – Client Website**: Personal website for a Japanese client using **Astro**, **React**, **Sanity CMS**, and **i18n** for Japanese and English
 -   **In Progress – Yorimichi**: Scenic route optimization engine — **Python**, **PostGIS**, **FastAPI**, **OSMnx**, **NetworkX**
   
 ---
