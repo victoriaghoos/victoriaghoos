@@ -6,7 +6,7 @@
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-AEE8F5?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://victoriaghoos.com" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%B8%20WEBSITE-FFC0CB?style=for-the-badge" alt="COSMOS">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%B8%20WEBSITE-FFC0CB?style=for-the-badge" alt="Website">
   </a>
   <a href="mailto:ghoosvictoria@gmail.com">
     <img src="https://img.shields.io/badge/Email-DDA0DD?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> 
@@ -45,8 +45,8 @@ I'm **Victoria** from Belgium, a passionate software engineer with a love for cl
 -   **Internship**: Three-month internship with **OpenSearch**, **C#**, **Vue.js**, and **Docker** at [Vandenbroele](https://www.vandenbroele.be)
 -   **Personal Website**: Interactive 3D portfolio built with **React.js** and **Three.js**
       *   🔗 Check it out: [victoriaghoos.com](https://victoriaghoos.com)
--   **In Progress – Client Website**: Personal website for a Japanese client using **Astro**, **React**, **Sanity CMS**, and **i18n** for Japanese and English
--   **In Progress – Yorimichi**: Scenic route optimization engine — **Python**, **PostGIS**, **FastAPI**, **OSMnx**, **NetworkX**
+-   **In Progress: Client Website**: Personal website for a Japanese client using **Astro**, **React**, **Sanity CMS**, and **i18n** for Japanese and English
+-   **In Progress: Yorimichi**: Scenic route optimization engine using **Python**, **PostGIS**, **FastAPI**, **OSMnx**, **NetworkX**
   
 ---
 
